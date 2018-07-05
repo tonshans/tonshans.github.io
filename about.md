@@ -17,7 +17,8 @@ jawabku sekenanya, entah memang begitu adanya kalau memang soal rasha tidak ada 
 
 Beberapa hari setelah itu, saya teringat percakapan saya dengan kawanku itu. lalu di buatlah web ini, yang saya harapkan sebagai wadah tempat saya mencoba menjelaskan bagaimana rasha itu melalui kata-kata.  
 Yang saya post disini tidak selalu mengenai apa yang saya pribadi rasakan, bisa saja tentang gimana perasaan daun saat menikmati hembusan segar angin di tengah teriknya matahari atau gimana rasanya sebuah paket tcp yang mendapatkan jawaban RST saat menyampaikan SYN dengan segenap hatinya.  
-Intinya tidak perlu dipikirkan apa yang saya posting disini, cukup dibaca dan rasakan dengan hati.
+Intinya tidak perlu dipikirkan apa yang saya posting disini, cukup dibaca dan rasakan dengan hati.  
+Dan kalau ingin banget ada yang hendak di sampaikan kepada saya bisa layangkan surat elektronik ke hanito.t yang di host di gmail.com.
 
 
 Salam, 
