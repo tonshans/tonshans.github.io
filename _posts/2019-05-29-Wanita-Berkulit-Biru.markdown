@@ -22,5 +22,5 @@ aku ingin bebas menikmati rasa yang mungkin dulu ku alami
 Janjiku dalam hati tak ingin aku mengulangi  
 hal yang membuatku terkurung  
 aku ingin tetap bebas  
-walaupun ada kesenangan yang harusnaku lupakan  
+walaupun ada kesenangan yang harus aku lupakan  
 
