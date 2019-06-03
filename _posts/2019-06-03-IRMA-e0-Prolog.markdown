@@ -10,15 +10,15 @@ categories: [cerpen, irma]
 Kala apa yang aku bangun dan ku yakini runtuh berantakan  
 Kala yang kuperoleh dan ku miliki serasa tak bermakna  
 Titik terang seolah jalan keluar pun membawaku jatuh lebih dalam  
-      menyisakan perih teramat, melenyapkan keyakinanku.  
+&nbsp &nbsp &nbsp &nbsp &nbsp menyisakan perih teramat, melenyapkan keyakinanku.  
 
 Sebuah jalan dari sudut pandang yang baru  
 Jalan yang gelap di kelilingi hewan liar dan lolongan anjing malam  
 Sosok pemikir bijaksana seakan terus membawaku ke dalam gelapnya  
-      sebuah jalan yang seakan kelam.  
+&nbsp &nbsp &nbsp &nbsp &nbsp sebuah jalan yang seakan kelam.  
 
 Dalam ujung perjalananku  
-      ada berjuta hakekat yang dapat ku nikmati, bahkan kuwariskan  
-      sebuah cikal bakal pemikiran berujung kebahagiaan  
-      serta semangat berujung kepada kesejahteraan  
+&nbsp &nbsp &nbsp &nbsp &nbsp ada berjuta hakekat yang dapat ku nikmati, bahkan kuwariskan  
+&nbsp &nbsp &nbsp &nbsp &nbsp sebuah cikal bakal pemikiran berujung kebahagiaan  
+&nbsp &nbsp &nbsp &nbsp &nbsp serta semangat berujung kepada kesejahteraan  
 
