@@ -5,7 +5,7 @@ date:  2019-06-03 03:54:52 +0800
 categories: [cerpen, irma]
 ---
 
-*[ IRMA - #0 ]*
+`[ IRMA - #0 ]`
 
 Kala apa yang aku bangun dan ku yakini runtuh berantakan  
 Kala yang kuperoleh dan ku miliki serasa tak bermakna  

@@ -1,7 +1,14 @@
-### IRMA - #1 
-####Di pagi hari, seperti biasa...
+---
+layout: post
+title:  "Dipagi hari seperti biasa?"
+date:  2019-06-04 02:12:02 +0800
+categories: [ cerpen, irma ]
+---
 
-*"tut tut.. tut tuuut.. tut tut.. tut tuuut..."*
+`[ IRMA - #1 ]`
+
+
+>*"tut tut.. tut tuuut.. tut tut.. tut tuuut..."*
 
 Suara alarm membangunkanku, segera aku ambil hanphone yang tergeletak di samping kepalaku tepat diatas guling bergambar tokoh kartun hello kitty yang di dominasi warna pink cantik kesukaanku.
 
@@ -16,32 +23,38 @@ oke balik ke cerita..
 Setelah mandi serta berdandan ala kadarnya agar tampak rapi aku keluar ke ruang bawah untuk sarapan atau hanya untuk sekedar menyapa keluarga di rumah, biasa ada dua keponakan aku yang lucu bernama Angga dan Sinta yang juga sedang sibuk bersiap untuk berangkat ke sekolah.
 Angga memang tidak terlalu dekat dengan aku dia punya kesibukannya sendiri, tetapi Sinta bener-bener dekat denganku bahkan kadang tidak mau makan jika tidak di suapi olehku, terkadang aku juga yang mengantarkan mereka sekolah jika orangtua mereka tidak sempat untuk mengantarkan mereka ke sekolah, tetapi hari ini aku benar-benar sedang terburu-buru untuk ke kantor karena pada hari senin biasanya banyak pekerjaan yang menanti. Segera kupacu kemdaraan roda dua yang biasa aku kendarai dan setibanya di dekat persimpangan lampu merah, seperti biasa aku stop di area tempat orang berjualan disana ada berbagai menu sarapan mulai dari kue-kue sampai makanan berat seperti nasi padang porsi jumbo, tetapi untuk hari ini aku memilih nasi kuning dengan lauk ayam bumbu sebagai menu sarapan.
 
-	*"nasi kuningnya satu ya bu, di bungkus.."*  
-	*"pakai lauk apa cantik?.."*  
-	*"ayam bumbu bu,.. nasi-nya jangan banyak-banyak yaa bu"*  
-	*"iya cantik.. tapi sabar yaa, masih ada yang antri tuh.."*  
+>*"nasi kuningnya satu ya bu, di bungkus.."*  
+>*"pakai lauk apa cantik?.."*  
+>*"ayam bumbu bu,.. nasi-nya jangan banyak-banyak yaa bu"*  
+>*"iya cantik.. tapi sabar yaa, masih ada yang antri tuh.."*  
+
 Bu mirnah memang selalu begitu memanggilku dan suka memuji sampai aku tersipu malu kadang aku merssa bu Mirnah terlau berlebihan memujiku.
 
 Sambil menunggu aku duduk di bangu kosong yang kebetulan ada di dekatku berdiri dan tidak sengaja tasku menyenggol kepala seorang pria berbaju kaos putih yang sedang duduk di sebelahku.
 	
-	~~Pletaakkkkk..~~  
-	*"aduh..."* pria itu menoleh ke arahku sambil menggosok-gosok kepalanya.  
-	*"duh.. maaf mas ga sengaja.."* dengan refleks cepat aku pun ikut mengusap kepalanya juga..  
-...dia menatapku, dan aku menatapnya
+>*"~~Pletaakkkkk..~~"*  
+>*"aduh..."*   -pria itu menoleh ke arahku sambil menggosok-gosok kepalanya.  
+>*"duh.. maaf mas ga sengaja.."*   -dengan refleks cepat aku pun ikut mengusap kepalanya juga..  
+
+... dia menatapku, dan aku menatapnya  
+...  
 semua terasa seperti bergerak dalam mode *slow motion*
 moment beberapa detik itu terasa berjam-jam
 
-	*"mas nasi pecelnya nih.. sudah jadi.."* suara bu mirnah memecah suasana, dan semua kembali normal
+>*"mas nasi pecelnya nih.. sudah jadi.."* 
+-suara bu mirnah memecah suasana, dan semua kembali normal
 
 Pria itu pun tersenyun ke arahku, sambil berlalu dia mengeluarkan dompetnya lalu memberikan sejumlah uang ke pada bu mirnah dan kemudian mengilang bersama kendaraan roda dua yang di kendarainya.  
 dan aku, masih terpaku sampai tepukan bu mirnah mengagetkan aku.
 
-	*"Ganteng yah, cocok tuh sama kamu.."* ucap bu Mirnah sambil tersenyum menggoda  
-	...dan aku cuma bisa tersenyum..  
-	*"nih peseanmu cantik.. makanya sering-sering beli disini, jadi ketemu sama cowok-cowok ganteng.."*  
-	.. dan dengan senyum yang tetap aku membayar pesananku..  
-	*"tu cowok udah beberapa hari beli sarapan disini, cantik besok mampir sini lagi yaa.."*  
-	*"hehehe iya bu.. terimakasih yaa..."* ucap ku sambil tersenyum dan berlalu.  
+>*"Ganteng yah, cocok tuh sama kamu.."* -ucap bu Mirnah sambil tersenyum menggoda  
+... dan aku cuma bisa tersenyum ...  
+
+>*"nih peseanmu cantik.. makanya sering-sering beli disini, jadi ketemu sama cowok-cowok ganteng.."*  
+... dan dengan senyum yang tetap aku membayar pesananku ...  
+
+>*"tu cowok udah beberapa hari beli sarapan disini, cantik besok mampir sini lagi yaa.."*  
+*"hehehe iya bu.. terimakasih yaa..."*   -ucap ku sambil tersenyum dan berlalu.  
 
 Segera ku nyalakan kendaraan roda dua ku lalu mengucapkan salam kepada bu Mirnah dan segera melanjutkan perjalanan, sepanjang perjalanan ada perasaan aneh di diriku. Setibanya di kantor seperti biasa aku mengucapkan salam kepada security dan teman-teman yang ku jumpai tetapi tetap moment di warung bu Mirnah masih terbayang, rasanya sebagian diriku tertinggal disana. 
 
@@ -49,4 +62,7 @@ Segera ku nyalakan kendaraan roda dua ku lalu mengucapkan salam kepada bu Mirnah
 
 Sibuknya hari senin sempat mengalihkan perasaan aneh yang aku rasakan tadi pagi, sampai sore dan waktunya untuk pulang kerumah, dan tanpa basa-basi segera ku rapikan meja kerjaku dan beranjak ke parkiran untuk segera berangkat pulang. Sesampainya dirumah dan setelah mandi untuk sedikit menghilangkan penat setelah seharian bekerja, aku duduk di meja makan untuk mengisi perutku yang sudah mulai lapar tetapi kemudian perasaan aneh itu muncul lagi, tiap suapan kembali menyegarkan ingatanku soal kejadian pagi tadi, hayalku mulai bertanya-tanya "namana siapa yah?", "dia tinggal dimana yah?", "orangnya baik atau enggak yah?" dan berbagai andai-andai muncul di kepalaku..
 
-*aahhh...* aku sudah lelah lebih baik aku tidur saja, semoga besok perasaan aneh ini tidak mengganguku lagi.
+*aahhh...* aku sudah lelah lebih baik aku tidur saja, semoga besok perasaan aneh ini tidak lagi mengganguku.
+
+
+> Bersambung...
