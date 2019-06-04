@@ -14,6 +14,4 @@ Tetapi dalam kehidupannya yang sederhana terdapat percikan kecil kehidupan yang 
 - *Bersambung...*
 
 ---
-> Cerita-cerita disini merupakan fiksi belaka.
-> Jika terdapat kesamaan tokoh atau kejadian,
-> itu hanya sebuah kebetulan belaka.
+> Cerita Disini Hanya Fiktif Belaka. Jika Ada Kesamaan Nama Tokoh, Tempat Kejadian Ataupun Cerita, Itu Adalah Kebetulan Semata Dan Tidak Ada Unsur Kesengajaan.
