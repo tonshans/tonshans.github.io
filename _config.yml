@@ -56,4 +56,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - scripts
 
