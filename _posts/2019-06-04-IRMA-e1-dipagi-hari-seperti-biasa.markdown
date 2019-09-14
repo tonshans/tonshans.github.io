@@ -7,7 +7,7 @@ categories: [ cerpen, irma ]
 
 `[ IRMA - #1 ]`
 
-
+![pagi hari seperti biasa](/assets/img/dipagi_hari_seperti_biasa.jpg)
 >*"tut tut.. tut tuuut.. tut tut.. tut tuuut..."*
 
 Suara alarm membangunkanku, segera aku ambil hanphone yang tergeletak di samping kepalaku tepat diatas guling bergambar tokoh kartun hello kitty yang di dominasi warna pink cantik kesukaanku.
