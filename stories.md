@@ -11,6 +11,7 @@ Tetapi dalam kehidupannya yang sederhana terdapat percikan kecil kehidupan yang 
 
 - [Prolog](/2019/06/IRMA-e0-Prolog.html) 
 - [Dipagi hari seperti biasa?](/2019/06/IRMA-e1-dipagi-hari-seperti-biasa.html)
+- [Kerja, kerja, kerja...](/2019/09/IRMA-e2-kerja-kerja-kerja.html)
 - *Bersambung...*
 
 ---
