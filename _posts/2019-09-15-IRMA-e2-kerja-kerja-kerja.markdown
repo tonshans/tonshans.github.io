@@ -172,7 +172,7 @@ Seharian pikiranku seperti kosong dengan perasaan tidak menentu, dirumah pun aku
 Aku rebahkan tubuhku di tempat tidur, berusaha untuk tidur.
 Tapi perasaan gak menentu seperti mencegah aku untuk terlelap.
 Sudah ku coba berbagai posisi baring untuk mencari posisi yang nyaman agar cepat terlelap
-Sampai akhirnya ku dengar suara azan subuh..
+Sampai akhirnya ku dengar suara adzan subuh..
 
 >"apaaa sudah subuuuhh...!!" ucapku dalam hati
 Benar-benar ada yang salah dengan aku, tapi coba ku tutup mataku sekali lagi.
