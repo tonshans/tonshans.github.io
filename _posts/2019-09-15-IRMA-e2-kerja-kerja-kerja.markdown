@@ -5,7 +5,7 @@ date:  2019-09-15 10:46:02 +0800
 categories: [ cerpen, irma ]
 ---
 
-`[ IRMA - #1 ]`
+`[ IRMA - #2 ]`
 
 ![pagi hari seperti biasa](/assets/img/irma_2_kerja_kerja_kerja.jpg)
 Di sebuah kubikal office.
