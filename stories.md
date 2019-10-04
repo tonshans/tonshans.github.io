@@ -13,6 +13,7 @@ Tetapi dalam kehidupannya yang sederhana terdapat percikan kecil kehidupan yang 
 - [IRMA#1 - Dipagi hari seperti biasa?](/2019/06/IRMA-e1-dipagi-hari-seperti-biasa.html)
 - [IRMA#2 - Kerja, kerja, kerja...](/2019/09/IRMA-e2-kerja-kerja-kerja.html)
 - [IRMA#3 - Pikiran & Perasaan](/2019/09/IRMA-e3-pikiran-perasaan.html)
+- [IRMA#4 - Bengkel & Ivone](/2019/10/IRMA-e4-bengkel-n-ivone.html)
 - *Bersambung...*
 
 ---
