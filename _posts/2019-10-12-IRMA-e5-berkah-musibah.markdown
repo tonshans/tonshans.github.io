@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "djudul"
+title:  "Berkah atau Musibah"
 date:   2019-10-12 22:06:00 +0800
 categories: [ cerpen, irma ]
 ---
